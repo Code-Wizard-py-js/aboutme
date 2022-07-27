@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋, I'm Quang Minh
+# Hi 👋, I'm Mashud Rana
 ### A Freelancer developer from VietNam
 
-![view counter](https://komarev.com/ghpvc/?username=therealstromez&label=Profile%20views&color=0e75b6&style=flat-square)
+![view counter]()
 
 - 🔭 I’m currently working on **something awsome 🥰**
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **anything 🤣**
 
-- 📫 How to reach me **zemorts@gmail.com**
+- 📫 How to reach me **mrmr5669@gmail.com**
 
 
 ## Connect with me 👀
