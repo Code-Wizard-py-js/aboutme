@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi 👋, I'm Mashud Rana
-### A Freelancer developer from VietNam
+### A Freelancer developer from Bangladesh
 
 ![view counter](https://komarev.com/ghpvc/?username=therealstromez&label=Profile%20views&color=0e75b6&style=flat-square)
 
