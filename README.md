@@ -50,5 +50,4 @@ Here are some ideas to get you started:
 
 ![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=therealstromez&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
-<a href="https://www.paypal.me/quangminh06"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="paypal"/>
-</a>
+
